@@ -1,0 +1,23 @@
+{
+  "name": "vue-server-side",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peraferrer/vue-server-side.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peraferrer/vue-server-side/issues"
+  },
+  "homepage": "https://github.com/peraferrer/vue-server-side#readme",
+  "dependencies": {
+    "vue": "^2.0.3",
+    "vue-server-renderer": "^2.0.3"
+  }
+}
